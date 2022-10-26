@@ -1,5 +1,7 @@
 # Odin Recipes
-> A simple website for showing some recipes, and to train more in the technologies I'm using in this project while following theOdinProject course(https://www.theodinproject.com).
+ A simple website for showing some recipes, and to train more in the technologies I'm using in this project while following theOdinProject course(https://www.theodinproject.com).
+
+ Also I'm taking some photos and text from(https://www.allrecipes.com)
 
 
 > Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->

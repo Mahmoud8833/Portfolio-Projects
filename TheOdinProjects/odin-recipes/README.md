@@ -1,22 +1,4 @@
 # Odin Recipes
-
-    HTMl CSS Javascript.
-
-## General info
-    
-
-## Table of contents
-
-## Technologies
-
-    * HTML 5
-    *CSS 3
-    *JavaScript
-
-## Setup
-
-
-# Odin Recipes
 > A simple website for showing some recipes, and to train more in the technologies I'm using in this project while following theOdinProject course(https://www.theodinproject.com).
 
 
